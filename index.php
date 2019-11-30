@@ -8,6 +8,8 @@ and open the template in the editor.
 -->
 <html>
     <head>
+        
+        <div class="p-3 mb-2 bg-danger text-white">.bg-danger</div>
 
         <title>Clima</title>
         <meta charset="UTF-8">
